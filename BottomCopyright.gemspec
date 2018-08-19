@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{gem to make Bottom Copyright}
   spec.description   = %q{gem to make Bottom Copyright}
-  spec.homepage      = "localhost."
+  spec.homepage      = "http://localhost:3000/."
 
 
   # Specify which files should be added to the gem when it is released.
