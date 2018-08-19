@@ -6,7 +6,7 @@ require "BottomCopyright/version"
 Gem::Specification.new do |spec|
   spec.name          = "BottomCopyright"
   spec.version       = BottomCopyright::VERSION
-  spec.authors       = ["Manan Mongia"]
+  spec.authors       = ["Example Eample"]
   spec.email         = ["manan@example.com"]
 
   spec.summary       = %q{gem to make Bottom Copyright}
